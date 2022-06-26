@@ -1,0 +1,46 @@
+body {
+    background-image: url("https://img.freepik.com/free-vector/hand-painted-watercolor-abstract-watercolor-background_23-2149018550.jpg?w=2000");
+    background-position: center;
+    margin: 30px;
+}
+h1 {
+    text-align: center;
+    font-family: Verdana, "Geneva", Tahoma, serif;
+    color: rgb(46, 146, 0);
+}
+
+a {
+    text-decoration: none;
+    text-align: bottom;
+}
+
+/* either put the images in 4 corners or next to each other with little to no space*/
+
+.cal {
+    float: right;
+    height: 300px;
+    width: 400px;
+    object-fit: cover;
+    object-position: center;
+}
+
+.bibi {
+    height: 300px;
+    width: 400px;
+    object-fit: cover;
+    object-position: 50%;
+}
+
+.sweetc {
+    height: 300px;
+    width: 400px;
+    object-fit: cover;
+    object-position: center;
+}
+
+.bites {
+    float: right;
+    height: 300px;
+    width: 400px;
+    object-fit: cover;
+}
